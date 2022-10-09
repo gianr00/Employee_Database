@@ -1,4 +1,4 @@
-# Employee Database analysis
+# Employee Database Research and Analysis
 
 Author: Rosie Gianan, gianr00@gmail.com
 
@@ -14,7 +14,7 @@ Research on the employees of the corporation from the 1980s and 1990s. All that 
 
 2.    Create a database named employeeDB with 6 tables to hold the data from the 6 CSV files
 
-<img src="EmployeeSQL/EmployeeDB_tables.png" width="700"> 
+<img src="EmployeeSQL/EmployeeDB_tables.png" width="300"> 
 
 3.    Import each CSV file into the corresponding SQL table using pgAdmin import tool.
 4.    Create the queries for the data analysis with the following information:
@@ -28,11 +28,11 @@ Research on the employees of the corporation from the 1980s and 1990s. All that 
 -    List the frequency count of employee last names (i.e., how many employees share each last name) in descending order.
 5.    Create a histogram to visualize the most common salary ranges for employees, i.e. occurs 10 or more.
 
-<img src="EmployeeSQL/common_salary_ranges.png" width="700"> 
+<img src="EmployeeSQL/common_salary_ranges.png" width="300"> 
 
 6.    Create a bar chart to visualize the average salary by title
  
-<img src="EmployeeSQL/average_salary_by_title.png" width="700"> 
+<img src="EmployeeSQL/average_salary_by_title.png" width="300"> 
 
 
 
