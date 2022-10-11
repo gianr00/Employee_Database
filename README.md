@@ -4,10 +4,18 @@ Author: Rosie Gianan, gianr00@gmail.com
 
 Build With: PostgreSQL, pgAdmin, QuickDB, SQLAlchemy ORM queries, Python, Pandas and Matplotlib
 
-## Goals:
-Research on the employees of the corporation from the 1980s and 1990s. All that remains of the database of employees from that period are six CSV files. Design the tables to hold the data in the CSVs, import the CSVs into a SQL database, and analyze the data. This involves data modeling, data engineering and data analysis.
+## Objective:
+Research on the employees of the corporation from the 1980s and 1990s. All that remains of the database of employees from that period are these six CSV files. 
+-    [departments.csv](data/departments.csv)
+-    [dept_emp.csv](data/dept_emp.csv)
+-    [dept_manager.csv](data/dept_manager.csv)
+-    [employees.csv](data/employees.csv)
+-    [salaries.csv](data/salaries.csv)
+-    [titles.csv](data/titles.csv)
 
-## Solutions:
+Design the tables to hold the data in the csv files, import the data from csv files into a SQL database, and analyze the data. This involves data modeling, data engineering and data analysis.
+
+## Solution:
 1.    Create the Entity Relationship Diagram (ERD) of the 6 tables to hold the data from the 6 CSV files.
 
 <img src="EmployeeSQL/EmployeeDB_physical_model_design.png" width="700"> 
