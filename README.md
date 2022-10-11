@@ -2,7 +2,7 @@
 
 Author: Rosie Gianan, gianr00@gmail.com
 
-Build With: PostgreSQL, pgAdmin, QuickDB, SQLAlchemy ORM queries, Python, Pandas and Matplotlib
+Build with: PostgreSQL, pgAdmin, QuickDB, SQLAlchemy ORM, Python, Pandas, Matplotlib, csv files, Jupyter notebook
 
 ## Objective:
 Research on the employees of the corporation from the 1980s and 1990s. All that remains of the database of employees from that period are these six CSV files. 
